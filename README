@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4066
+
+Some people like tabs, some like spaces. Very few people like it when you edit their stuff and use a different method of indentation.
+
+This plugin scans through a file when it&#039s opened and attempts to guess which style of indentation is being used. It then overrides your preferences so that you match the style of the file.
+
+Currently it only detects the three most common styles of indentation, tabs, 2 spaces and 4 spaces. Patches to make this plugin more general are welcomed.
+
+The most up to date version of this script is available at https://github.com/conormcd/matchindent.vim
